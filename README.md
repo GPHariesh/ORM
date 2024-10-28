@@ -8,6 +8,7 @@ To develop a Django application to store and retrieve data from a bank loan data
 
 ![alt text](<WEB DIAGRAM.png>)
 
+
 ## DESIGN STEPS
 
 ### STEP 1:
